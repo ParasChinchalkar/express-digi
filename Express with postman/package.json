@@ -1,0 +1,17 @@
+{
+  "name": "tea-manager",
+  "version": "1.0.0",
+  "description": "a simple manager for different tea",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"node nodemon.js"
+  },
+  "keywords": [
+    "express",
+    "tea"
+  ],
+  "author": "Paras Chinchalkar",
+  "license": "ISC"
+}
